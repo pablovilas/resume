@@ -35,6 +35,22 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 700;
 }
 
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+#contact-mail{
+    color:#fff;
+}
+
+#contact-mail:hover{
+    color:#fff;
+    cursor: pointer;
+}
+
 /* ==========================================================================
    Navigation
    ========================================================================== */
@@ -414,7 +430,6 @@ h1,h2,h3,h4,h5,h6{
 .btn.btn-default:active{
     background:#fff;
     border-color: #fff;
-    color:fff;
 }
 
 input,.input-lg,button{
@@ -435,16 +450,29 @@ label.error{
     color:#fff;
     background:#b94a48;
     border:solid thin #fff;
-    padding:3px 5px;
+    padding:0 5px;
 }
 
 label.valid{
     color:#fff;
     background:#5CB85C;
     border:solid thin #fff;
-    padding:3px 5px;
+    padding:0 5px;
 
 }
+
+.btn.btn-thanks{
+    background:transparent;
+    cursor: default;
+}
+
+.btn.btn-thanks a{
+    background:transparent;
+    cursor: pointer;
+    color: #fff;
+    font-size: .7em;
+}
+
 /* ==========================================================================
    Charts   
    ========================================================================== */
@@ -647,4 +675,12 @@ a:link,a:visited,.navbar-default .navbar-nav>li>a:hover,
 .btn.btn-default:hover,
 .btn.btn-default:active{
     color:#3498db;
+}
+
+.btn.btn-thanks:hover,
+.btn.btn-thanks:active,
+.btn.btn-thanks:hover > a,
+.btn.btn-thanks:active > a{
+    background: transparent;
+    color:#fff;
 }
