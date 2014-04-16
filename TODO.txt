@@ -1,0 +1,13 @@
+#### Texto perfil ####
+
+Soy el fruto del cariño de mis padres Javier y Virginia. Nací en la pequeña cuidad de Dolores en Soriano, Uruguay, un domingo 30 de Abril de 1989.
+A los 16 años decidi que queria dedicarme a las tecnologias de la informacion. Me gusta estar en la vanguardia, dedico mucho tiempo a aprender y evaluar nuevas metodologias y tecnologias.
+Tengo un loco afan por el diseño y calidad del software, me considero una persona proactiva e innovadora, busco siempre la mejor y elegante solucion.
+Mantengo constante interés por las buenas prácticas en programación y gestión de proyectos.
+
+
+
+I am the fruit of love from my parents Javier and Virginia. I was born in a little town called Dolores in Soriano, Uruguay, one Sunday April 30 of 1989.
+At 16 I decided I wanted to devote myself to the information technologies. I like being in the cutting edge, I spend a lot of time to learn and evaluate new methodologies and technologies.
+I have a mad enthusiasm for software design and quality, I consider myself a proactive and innovative person, always looking for the best and elegant solution.
+I maintain constant interest in best practices for programming and project management.
