@@ -12,8 +12,28 @@ At 16 I decided I wanted to devote myself to the information technologies. I lik
 I have a mad enthusiasm for software design and quality, I consider myself a proactive and innovative person, always looking for the best and elegant solution.
 I maintain constant interest in best practices for programming and project management.
 
-#### Texto skils ####
+#### Texto skills ####
 
-Esto es lo que soy capaz de hacer al monento
+Esto es lo que soy capaz de hacer al momento
 
 This is what I'm capable to do at the moment
+
+#### Texto Educacion ####
+
+The places where I started to learn something
+
+Los lugares donde comence a aprender algo
+
+Aqui es donde tome mis primeros pasos a una formacion profesional.
+Adquiri una buena base para afrontar los desafios de mi carrera
+
+This is where I took my first steps to professional training.
+I acquired a good baseline to meet the challenges of my career
+
+Carrera diseñada siguiendo los estándares internacionales definidos por la Accreditation Board for Engineering and Technology.
+Transmite la capacidad de diseñar y desarrollar sistemas informáticos de gran porte y complejidad.
+Aprendi a desempeñar con éxito la creación de software, consultoria independiente y liderazgo en proyectos.
+
+Career designed according to international standards set by the Accreditation Board for Engineering and Technology.
+Transmits the ability to design and develop computer systems of large size and complexity.
+Thanks to that I have learned to perform successfully software creation, independent consulting and project leadership.
