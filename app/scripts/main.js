@@ -109,8 +109,10 @@ $(document).ready(function(){
         $.vegas('previous');
     });
 
+    /* Contact form */
 
-    /*Contact form */
+    $('#thanks-contact').hide();
+
     $('#contact-form').validate({
         rules: {
             name: {
@@ -126,12 +128,21 @@ $(document).ready(function(){
                 required: true
             }
         },
-        highlight: function (element) {
-            $(element).closest('.control-group').removeClass('success').addClass('error');
-        },
-        success: function (element) {
-            element.text('OK!').addClass('valid')
-                    .closest('.control-group').removeClass('error').addClass('success');
+        submitHandler: function(form) {
+            var submit = $('#submit-contact');
+            var submitText = submit.text();
+            submit.text($('#sending-contact').val());
+            $.post('/contact.php', $(form).serialize(), function() {
+                $('#thanks-contact').fadeIn(500);
+                submit.hide();
+                submit.text(submitText);
+            });
         }
+    });
+
+    $('#thanks-contact a').on('click', function(){
+        $('#submit-contact').fadeIn(500);
+        $('#thanks-contact').hide();
+        $('#message').val('');
     });
 });

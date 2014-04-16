@@ -291,19 +291,19 @@
             <header class="section-header">
               <h2 class="section-title"><span>Contact</span></h2>
               <div class="spacer"></div>
-              <p class="section-subtitle">Lorem ipsum dolor sit amet, id iusto oportere mel. </p>
+              <p class="section-subtitle">Need further information?, I look forward to receiving your message</p>
             </header>
             <div class="row">
               <div class="col-sm-5 contact-info">
                 <h3>Contact Info</h3>
-                <p><i class="fa fa-map-marker"></i> 1234 State St., Little Rock, AR  72020 </p>
-                <p><i class="fa fa-phone"></i> (555) 123-4567 | (555) 123-7654 (FAX)</p>
-                <p><i class="fa fa-envelope-o"></i> articulate@email.com</p>
+                <p><i class="fa fa-map-marker"></i> Montevideo, Uruguay</p>
+                <p><i class="fa fa-phone"></i> (+598) 27 067 480 | (+598) 91 239 709 (Mobile)</p>
+                <p><i class="fa fa-envelope-o"></i><a id="contact-mail" href="mailto:pablovilas89@gmail.com" target="_top"> pablovilas89@gmail.com</a></p>
               </div>
 
               <div class="col-sm-7">
                 <h3>Get in Touch</h3>
-                <form  class="form-horizontal" id="contact-form">
+                <form class="form-horizontal" id="contact-form">
                   <div class="control-group">
                     <label class="control-label" for="name">Name</label>
                     <div class="controls">
@@ -323,7 +323,9 @@
                     </div>
                   </div>
                   <div class="form-actions">
-                    <button type="submit" class="btn btn-default btn-lg btn-block">Submit Message</button>
+                    <button id="submit-contact" type="submit" class="btn btn-default btn-lg btn-block">Submit Message</button>
+                    <label id="thanks-contact" class="btn btn-default btn-thanks btn-lg btn-block">Thank you! <a>(send me another)</a></label>
+                    <input id="sending-contact" type="hidden" value="Sending message...">
                   </div>
                 </form><!-- End contact-form -->
               </div>
