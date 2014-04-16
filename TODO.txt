@@ -11,3 +11,9 @@ I am the fruit of love from my parents Javier and Virginia. I was born in a litt
 At 16 I decided I wanted to devote myself to the information technologies. I like being in the cutting edge, I spend a lot of time to learn and evaluate new methodologies and technologies.
 I have a mad enthusiasm for software design and quality, I consider myself a proactive and innovative person, always looking for the best and elegant solution.
 I maintain constant interest in best practices for programming and project management.
+
+#### Texto skils ####
+
+Esto es lo que soy capaz de hacer al monento
+
+This is what I'm capable to do at the moment
