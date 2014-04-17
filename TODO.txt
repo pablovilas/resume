@@ -37,3 +37,24 @@ Aprendi a desempeñar con éxito la creación de software, consultoria independi
 Career designed according to international standards set by the Accreditation Board for Engineering and Technology.
 Transmits the ability to design and develop computer systems of large size and complexity.
 Thanks to that I have learned to perform successfully software creation, independent consulting and project leadership.
+
+#### Texto Experiencia ####
+
+##Vairix##
+
+Ruby on Rails software developer, using the latest and best technologies on the market.
+I use Scrum, an agile software development framework.
+Currently I'm working on a cool social network site for a foreign customer.
+
+##Gecos##
+
+I worked there as a Java SE/EE software developer.
+My job was design and develop the front-end of a huge and complex ERP software.
+It was a great job!, I learned tons of things but mainly expanded my mind.
+
+##Xionna##
+
+That was my first job!. I've earned lot of experience working as a Java EE software developer and as a team leader.
+Also was my first experience with international projects.
+I worked on the development of distributed applications with high I/O
+
