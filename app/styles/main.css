@@ -580,6 +580,14 @@ label.valid{
     color:#D3492C;
 }
 
+.btn-github:hover{
+    color: #333333;
+}
+
+.btn-blog:hover{
+    color: #253D90;
+}
+
 
 /* ==========================================================================
    Helper classes
